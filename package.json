@@ -1,0 +1,8 @@
+{ "name" : "tonedef"
+, "description" : "a redis, koa, mythril site"   
+, "license" : "BSD-3-Clause"
+, "dependencies": {
+    "koa": "latest",
+    "redis": "^2.2.3"
+  }
+}
